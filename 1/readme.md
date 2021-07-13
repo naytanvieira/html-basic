@@ -1,3 +1,6 @@
 <h4 align="center"> Projeto SIDEBAR</h4>
 <br>
-<p>um modelo de sidebar esponsivo desenvolvido em html, css e javascript</p>
+<p>um modelo de sidebar responsivo desenvolvido em html, css e javascript</p>
+<img src="./img/img.png">
+<p>é um modelo que solo pode ser bem simple mas ao ser adicionado junto a outros componentes irá trazer um layout muito bonito para a plataforma</p>
+<br>
